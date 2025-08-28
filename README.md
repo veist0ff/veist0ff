@@ -2,7 +2,7 @@
 <p align="center">Aka veist, aka the guy who codes stuff sometimes. Powered by coffee and Stark Industries tech.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eggdll&color=red" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=veist0ff&color=red" alt="Profile views" />
   <a href="https://t.me/veist0ff"><img src="https://img.shields.io/badge/TG-%40veist0ff-blue" alt="TG Profile" /></a>
 </p>
 
