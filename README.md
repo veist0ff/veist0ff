@@ -14,7 +14,7 @@
 - 📫 Reach me on [TG](https://t.me/veist0ff).
 
 ### ⚙️ My Arsenal
-[![My Skills](https://skillicons.dev/icons?i=js,cs,git,github,mysql,nginx,vscode,windows,arch&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cs,git,github,mysql,nginx,vscodium,windows,arch&theme=dark)](https://skillicons.dev)
 
 ### 📊 Stark Industries Metrics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veist0ff&show_icons=true&theme=radical&custom_title=veist0ff's+Metrics)
